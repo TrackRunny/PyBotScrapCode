@@ -1,0 +1,7 @@
+discord.py==1.2.5
+six==1.7.3
+mock==1.0.1
+click==6.2
+dnspython==1.12.0
+dnspython3==1.12.0
+mcstatus==2.2.1
